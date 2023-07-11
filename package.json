@@ -13,12 +13,12 @@
     "url": "git+https://github.com/HimanshuGD/MyPortfolio2"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Himanshu Deulkar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/HimanshuGD/MyPortfolio2"
   },
-  "homepage": "https://github.com/HimanshuGD/MyPortfolio#readme",
+  "homepage": "https://github.com/HimanshuGD/MyPortfolio2",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",

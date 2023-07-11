@@ -2,7 +2,7 @@
   "name": "MyPortfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "All about me is here!!!",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
